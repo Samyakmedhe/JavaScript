@@ -1,0 +1,16 @@
+var No1 = 11;
+console.log(No1);
+console.log("Value of Variable is : " + No1);
+console.log("Datatype of Variable : " + typeof No1);
+var No2 = 11;
+console.log(No2);
+console.log("Value of Variable is : " + No2);
+console.log("Datatype of Variable : " + typeof No2);
+var No3;
+console.log(No3);
+console.log("Value of Variable is : " + No3);
+console.log("Datatype of Variable : " + typeof No3);
+No3 = 11;
+console.log(No3);
+console.log("Value of Variable is : " + No3);
+console.log("Datatype of Variable : " + typeof No3);
